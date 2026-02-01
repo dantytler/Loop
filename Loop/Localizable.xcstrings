@@ -4493,7 +4493,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "活性碳水化合物"
+            "value" : "活性碳水"
           }
         }
       }
@@ -5191,7 +5191,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加碳水化合物"
+            "value" : "添加碳水摄入"
           }
         }
       }
@@ -5322,7 +5322,15 @@
       }
     },
     "Add item to bottom row" : {
-      "comment" : "Title for Add item"
+      "comment" : "Title for Add item",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wert zur unteren Zeile hinzufügen"
+          }
+        }
+      }
     },
     "Add Meal" : {
       "comment" : "The label of the carb entry button",
@@ -5450,7 +5458,15 @@
       }
     },
     "Add predictive line" : {
-      "comment" : "Title for predictive line toggle"
+      "comment" : "Title for predictive line toggle",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prognostizierten BZ-Verlauf hinzufügen"
+          }
+        }
+      }
     },
     "Add Pump" : {
       "comment" : "Action sheet title selecting Pump\nThe title of the pump chooser in settings\nTitle text for button to add pump device\nTitle text for button to set up a Pump",
@@ -9838,10 +9854,38 @@
       }
     },
     "Bottom row" : {
-      "comment" : "Live activity Bottom row configuration title"
+      "comment" : "Live activity Bottom row configuration title",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Untere Zeile"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "底部行"
+          }
+        }
+      }
     },
     "Bottom row configuration" : {
-      "comment" : "Title for Bottom row configuration"
+      "comment" : "Title for Bottom row configuration",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konfiguration der unteren Zeile"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "底部行配置"
+          }
+        }
+      }
     },
     "Cancel" : {
       "comment" : "Button label for cancel\nButton text to cancel\nCancel button for reset loop alert\nCancel export button title\nThe title of the cancel action in an action sheet",
@@ -10702,7 +10746,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加碳水化合物"
+            "value" : "添加碳水摄入"
           }
         }
       }
@@ -13943,6 +13987,12 @@
             "state" : "translated",
             "value" : "Mevcut KŞ"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当前血糖"
+          }
         }
       }
     },
@@ -14198,7 +14248,21 @@
       }
     },
     "Custom preset" : {
-      "comment" : "The title of the cell indicating a generic custom preset is enabled"
+      "comment" : "The title of the cell indicating a generic custom preset is enabled",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benutzerdefinierte Voreinstellung"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自定义预设"
+          }
+        }
+      }
     },
     "Custom Preset" : {
       "comment" : "The title of the cell indicating a generic custom preset is enabled",
@@ -15228,7 +15292,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Delete Service"
+            "value" : "删除服务"
           }
         }
       }
@@ -15318,6 +15382,12 @@
             "state" : "translated",
             "value" : "Test CGM Verilerini Sil"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除测试 CGM 数据"
+          }
         }
       }
     },
@@ -15406,6 +15476,12 @@
             "state" : "translated",
             "value" : "Test Verilerini Sil"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除测试数据"
+          }
         }
       }
     },
@@ -15493,6 +15569,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Test Pompası Verilerini Sil"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除测试用胰岛素泵数据"
           }
         }
       }
@@ -16655,7 +16737,21 @@
       }
     },
     "Enabled" : {
-      "comment" : "Title for enable live activity toggle"
+      "comment" : "Title for enable live activity toggle",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktiviert"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用"
+          }
+        }
+      }
     },
     "Enables" : {
       "comment" : "The action hint of the workout mode toggle button when disabled",
@@ -18189,6 +18285,12 @@
             "state" : "translated",
             "value" : "Kritik Olay Günlüklerini Dışa Aktarma"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出关键事件日志"
+          }
         }
       }
     },
@@ -19593,7 +19695,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "葡萄糖"
+            "value" : "血糖"
           }
         }
       }
@@ -19997,6 +20099,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Efectul asupra glicemiei al suspendării administrării de insulină"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暂停胰岛素输注对血糖的影响"
           }
         }
       }
@@ -22974,7 +23082,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "反馈问题"
+            "value" : "问题报告"
           }
         }
       }
@@ -23438,7 +23546,21 @@
       }
     },
     "Live activity" : {
-      "comment" : "Alert Permissions live activity\nLive activity screen title"
+      "comment" : "Alert Permissions live activity\nLive activity screen title",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Live-Aktivität"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "实时活动"
+          }
+        }
+      }
     },
     "Loading..." : {
       "comment" : "The loading message for the diagnostic report screen",
@@ -25834,7 +25956,21 @@
       }
     },
     "Mode" : {
-      "comment" : "Title for mode live activity toggle"
+      "comment" : "Title for mode live activity toggle",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modus"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "模式"
+          }
+        }
+      }
     },
     "Momentum effects" : {
       "comment" : "Details for missing data error when momentum effects are missing",
@@ -28415,7 +28551,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "好的"
+            "value" : "OK"
           }
         }
       }
@@ -29774,6 +29910,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Profil Sona Erme"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "配置过期"
           }
         }
       }
@@ -32138,6 +32280,12 @@
             "state" : "translated",
             "value" : "Uzak Bolus Girişi: %@ U"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "远程大剂量：%@ U"
+          }
         }
       }
     },
@@ -32653,6 +32801,12 @@
             "value" : "Gem"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Speichern"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32675,6 +32829,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zapisz"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salvează"
           }
         }
       }
@@ -34562,6 +34722,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Suspendarea administrării insulinei"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "胰岛素输注暂停"
           }
         }
       }
@@ -38431,7 +38597,21 @@
       }
     },
     "Use BG coloring" : {
-      "comment" : "Title for BG coloring"
+      "comment" : "Title for BG coloring",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeige BZ-Kurve farbig an"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用血糖数据颜色"
+          }
+        }
+      }
     },
     "Use Pre-Meal Preset" : {
       "comment" : "The title of the alert controller used to select a duration for pre-meal targets",
